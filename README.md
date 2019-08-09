@@ -1,4 +1,4 @@
-# K-Nearest-Neighbor-Classifier--python
+# K-Nearest-Neighbor-Classifier---python
 
 # Brief
 K-Nearest Neighbor classifier used to classify "abalone.data".
